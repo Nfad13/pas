@@ -15,13 +15,13 @@
     "Play Game": "dice",
     "Betset": [
         {
-            "Name Bet Set": "00 - @BEDUCODE SETTING",
+            "Name Bet Set": "00 - @riosuyanto",
             "Base Bet": "0.0001",
-            "Chance": "98",
+            "Chance": "45",
             "Random Chance": {
                 "Toggle": "ON",
-                "Min": "95",
-                "Max": "98"
+                "Min": "1",
+                "Max": "1"
             },
             "Bet": {
                 "Bet": "Hi",
